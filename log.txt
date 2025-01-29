@@ -1,1 +1,2 @@
 Welcome To master branch the file is untracked
+Welcome to master branch ready to commit 
